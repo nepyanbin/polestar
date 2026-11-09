@@ -619,13 +619,13 @@ return {
 
 	-- Step 159: Windshear Crag
 	-- {area:461} Windshear Crag
-	["East of Ziz, the Venture Company is clear-cutting {area:461}; one of the Operators carries the blueprints."] = "",
+	["East of Ziz, the Venture Company is clear-cutting {area:461}; one of the Operators carries the blueprints."] = "风险投资公司正在 菲兹克斯东面的 {area:461} 大肆伐木；其中一名操作员携带蓝图。",
 	-- plural, as words: Venture Co. Loggers = {npc:3989} Venture Co. Logger
 	["Venture Co. Loggers, all over the clear-cut"] = "风险投资公司樵夫，遍布砍伐过的林地",
 
 	-- Step 160: Piznik
 	-- {npc:4276} Piznik · {area:2160} Windshear Mine
-	["{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} on the east side of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails."] = "",
+	["{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} on the east side of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails."] = "在这个等级，{npc:4276} 的防守任务很难独自完成：建议找人组队。独自一人就跳过。\n{npc:4276} 在山崖东侧的 {area:2160} 底部采矿，需要穿过其中的狗头人（19-23级）。与他交谈，然后在他采矿期间保护他存活五分钟：至少十二只狗头人会分批来袭，先是近战敌人，随后是施法者，矿洞原有的狗头人也会刷新并加入战斗。如果他死亡，任务就会失败。",
 	-- {npc:4276} Piznik
 	["{npc:4276}, below ground"] = "{npc:4276}：在地下",
 

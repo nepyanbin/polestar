@@ -8,10 +8,10 @@
 return {
 	-- Step 1: Stormwind
 	-- {area:12} Elwynn Forest · {quest:174} Look to the Stars · {area:42} Darkshire · {item:4371} Bronze Tube · {npc:3133} Herble Baubbletump · {object:2096} Trade District
-	["Train, then leave by the main gate and follow the road east through {area:12}.\n{quest:174} in {area:42} needs a {item:4371}. Its vendors keep only one or two, and {npc:3133} in {area:42} is nearly always sold out: buy one at the Auction House in the {object:2096} on your way out. An engineer can make one too."] = "",
+	["Train, then leave by the main gate and follow the road east through {area:12}.\n{quest:174} in {area:42} needs a {item:4371}. Its vendors keep only one or two, and {npc:3133} in {area:42} is nearly always sold out: buy one at the Auction House in the {object:2096} on your way out. An engineer can make one too."] = "学习技能，然后从正门出城，沿路向东穿过{area:12}。\n{area:42}的{quest:174}需要一个{item:4371}。出售它的商人只备一两件，而{area:42}的{npc:3133}几乎总是缺货：出城时先去{object:2096}的拍卖行买一个。工程师也能制作。",
 	["Level 18 and 20 spells"] = "18级和20级法术",
 	-- {item:4371} Bronze Tube · {quest:174} Look to the Stars · {area:42} Darkshire
-	["{item:4371}: the Auction House, for {quest:174} in {area:42}"] = "",
+	["{item:4371}: the Auction House, for {quest:174} in {area:42}"] = "{item:4371}：从拍卖行购买，用于{area:42}的{quest:174}",
 
 	-- Step 2: Woo Ping
 	-- {npc:11867} Woo Ping · {object:2096} Trade District
@@ -65,7 +65,7 @@ return {
 
 	-- Step 14: Darkshire
 	-- {area:1002} Three Corners · {area:10} Duskwood · {area:42} Darkshire · {item:4371} Bronze Tube · {quest:174} Look to the Stars · {npc:3133} Herble Baubbletump · {npc:276} Viktori Prism'Antras
-	["Follow the road south from {area:1002} into {area:10}; {area:42} lies on the east side of the forest.\nNo {item:4371} for {quest:174}? {npc:3133}, in the house beside {npc:276}, keeps only one and is usually sold out. Without one, right-click the quest in the guide window and skip it.\n{npc:276}'s house stands at the east end of town. {npc:3133} sells engineering goods in the house beside it."] = "",
+	["Follow the road south from {area:1002} into {area:10}; {area:42} lies on the east side of the forest.\nNo {item:4371} for {quest:174}? {npc:3133}, in the house beside {npc:276}, keeps only one and is usually sold out. Without one, right-click the quest in the guide window and skip it.\n{npc:276}'s house stands at the east end of town. {npc:3133} sells engineering goods in the house beside it."] = "沿道路从{area:1002}向南进入{area:10}；{area:42}位于森林东侧。\n没有{quest:174}所需的{item:4371}？{npc:3133}在{npc:276}旁边的房子里，只备一件，通常已经售罄。如果没有，就在指南窗口中右键点击该任务并跳过。\n{npc:276}的房子在镇子东端。{npc:3133}在旁边的房子里出售工程学物品。",
 	-- {npc:2409} Felicia Maline
 	["{npc:2409}, at the north end of town"] = "{npc:2409}，在镇子北端",
 	-- {npc:265} Madame Eva

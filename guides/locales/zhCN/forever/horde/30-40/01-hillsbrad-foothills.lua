@@ -62,7 +62,7 @@ return {
 
 	-- Step 13: The Undercity
 	-- {quest:515} Elixir of Agony · {item:3388} Lesser Troll's Blood Elixir · {skill:171} Alchemy · {area:287} Hillsbrad
-	["{quest:515} needs a {item:3388}, an {skill:171} item: buy one at the auction house if you can (or ask an alchemist). The quest text says Strong, but it takes a {item:3388}. No elixir: skip the Elixir steps in {area:287}."] = "",
+	["{quest:515} needs a {item:3388}, an {skill:171} item: buy one at the auction house if you can (or ask an alchemist). The quest text says Strong, but it takes a {item:3388}. No elixir: skip the Elixir steps in {area:287}."] = "{quest:515} 需要一瓶 {item:3388}，这是 {skill:171} 制作的物品：尽量从拍卖行购买（或找炼金师制作）。任务文本虽然写着“Strong”（强力），实际需要的是 {item:3388}。没有药剂就跳过 {area:287} 的苦楚药剂系列步骤。",
 	-- {item:3388} Lesser Troll's Blood Elixir · {quest:515} Elixir of Agony
 	["{item:3388}: auction house or an alchemist, for {quest:515}."] = "{item:3388}：拍卖行或炼金术士，用于{quest:515}。",
 
@@ -246,7 +246,7 @@ return {
 
 	-- Step 49: Hammerfall
 	-- {npc:2851} Urda · {npc:15126} Rutherford Twing · {quest:8263} Defiler's Basic Care Package · {zone:1461} Arathi Basin
-	["The orc stronghold at the eastern end of the road. {npc:2851}, the wind rider master, stands by the gate.\n{npc:15126} offers the {quest:8263} only once you are Friendly with the Defilers ({zone:1461}): skip it if he doesn't offer it."] = "",
+	["The orc stronghold at the eastern end of the road. {npc:2851}, the wind rider master, stands by the gate.\n{npc:15126} offers the {quest:8263} only once you are Friendly with the Defilers ({zone:1461}): skip it if he doesn't offer it."] = "道路东端的兽人要塞。双足飞龙管理员 {npc:2851} 站在大门旁。\n只有你在 污染者（{zone:1461}）的声望达到友善，{npc:15126} 才会提供 {quest:8263}：若他没有提供，就跳过。",
 	-- {npc:2792} Gor'mul
 	["{npc:2792}, by the gate"] = "{npc:2792}，在大门旁",
 	-- {npc:2706} Tor'gan · {area:272} Tarren Mill

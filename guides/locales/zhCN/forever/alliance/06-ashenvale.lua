@@ -8,11 +8,11 @@
 return {
 	-- Step 1: Kerlonian Evershade
 	-- {area:442} Auberdine · {area:448} Grove of the Ancients · {npc:11218} Kerlonian Evershade · {item:13536} Horn of Awakening · {zone:1439} Darkshore · {npc:11219} Liladris Moonriver · {area:413} Maestra's Post
-	["Back north from the glaive (Druids: south along the road from {area:442}) to the {area:448}, where {npc:11218} sleeps beside Arbal. Take his quest, open his chest for the {item:13536}, use it to wake him and lead him south along the road to his bag at the southern edge of {zone:1439}; blow the horn again whenever he falls asleep. Then go on to {npc:11219} at {area:413}.\nCareful: Scripted ambushes of three mobs each attack along the road."] = "",
+	["Back north from the glaive (Druids: south along the road from {area:442}) to the {area:448}, where {npc:11218} sleeps beside Arbal. Take his quest, open his chest for the {item:13536}, use it to wake him and lead him south along the road to his bag at the southern edge of {zone:1439}; blow the horn again whenever he falls asleep. Then go on to {npc:11219} at {area:413}.\nCareful: Scripted ambushes of three mobs each attack along the road."] = "从巨刃处向北返回（德鲁伊：从{area:442}沿路向南），前往{area:448}，{npc:11218}睡在阿尔巴尔旁边。接下他的任务，打开他的箱子取得{item:13536}，用它唤醒他，沿路向南带他到{zone:1439}南缘他的包裹处。每当他睡着时，就再吹一次号角。然后继续前往{area:413}的{npc:11219}处。\n小心：沿路会触发伏击，每波三只怪物。",
 	-- {object:176634} Kerlonian's Chest
 	["{object:176634}, beside him"] = "他旁边的{object:176634}",
 	-- {npc:11218} Kerlonian Evershade · {zone:1439} Darkshore · {npc:11219} Liladris Moonriver · {area:413} Maestra's Post
-	["Escort {npc:11218} south along the road to his bag at the southern edge of {zone:1439}, then go on to {npc:11219} at {area:413}."] = "",
+	["Escort {npc:11218} south along the road to his bag at the southern edge of {zone:1439}, then go on to {npc:11219} at {area:413}."] = "沿路向南护送{npc:11218}到{zone:1439}南缘他的包裹处，然后继续前往{area:413}的{npc:11219}处。",
 
 	-- Step 4: Bathran's Haunt: kill these as you meet them
 	-- {area:411} Bathran's Haunt
@@ -46,11 +46,11 @@ return {
 
 	-- Step 11: Stonetalon Mountains
 	-- {area:421} Mystral Lake · {area:1276} Talondeep Path · {area:461} Windshear Crag · {area:2160} Windshear Mine
-	["Head south past {area:421} into the {area:1276} tunnel; it comes out in Stonetalon's {area:461}, north of the {area:2160}."] = "",
+	["Head south past {area:421} into the {area:1276} tunnel; it comes out in Stonetalon's {area:461}, north of the {area:2160}."] = "向南经过{area:421}，进入{area:1276}隧道；出口在石爪山的{area:461}，位于{area:2160}北面。",
 
 	-- Step 12: Piznik
 	-- {npc:4276} Piznik · {area:2160} Windshear Mine
-	["{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} at the east end of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails."] = "",
+	["{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} at the east end of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails."] = "在当前等级，独自完成{npc:4276}的防守任务很困难：建议寻找其他玩家组队。如果只有自己，就跳过。\n{npc:4276}在峭壁东端的{area:2160}最深处采矿，需先穿过里面的狗头人（19-23级）。与他交谈后，在他采矿的五分钟内保护他存活：十二只或更多狗头人会分波次袭来，先是近战敌人，再是施法者，矿洞原有的狗头人也会刷新并加入战斗。如果他死亡，任务就会失败。",
 	["Below ground"] = "在地下",
 	-- {npc:4276} Piznik
 	["Keep {npc:4276} alive while he mines, below ground"] = "",

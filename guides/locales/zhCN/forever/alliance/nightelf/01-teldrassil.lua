@@ -92,7 +92,7 @@ return {
 
 	-- Step 12: Iverron's Antidote
 	-- {npc:8583} Dirania Silvershine · {area:256} Aldrassil · {npc:8584} Iverron
-	["Take the antidote from {npc:8583} at the foot of {area:256} only now, on the way down: it lasts five minutes. {npc:8584} waits north-west, by the cave: go straight on to him."] = "",
+	["Take the antidote from {npc:8583} at the foot of {area:256} only now, on the way down: it lasts five minutes. {npc:8584} waits north-west, by the cave: go straight on to him."] = "现在下楼途中才去{area:256}底部找{npc:8583}领取解毒剂：它只持续五分钟。{npc:8584}在西北方的洞穴旁等候，直接去找他。",
 
 	-- Step 13: Porthannius
 	-- {area:188} Shadowglen · {area:256} Aldrassil · {npc:6780} Porthannius · {area:186} Dolanaar

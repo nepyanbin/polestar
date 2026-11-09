@@ -18,7 +18,7 @@ return {
 
 	-- Step 4: Splintertree Post
 	-- {area:431} Splintertree Post · {npc:12696} Senani Thunderheart · {area:428} Night Run · {npc:12867} Kuray'bin · {quest:6503} Ashenvale Outrunners
-	["{area:431} is just north up the road. Coming in from the south, the flight master and {npc:12696}'s hunt board at {area:428} come first, then the vendors. {npc:12867} at the lumber camp offers {quest:6503}: leave it for the way back, at 22."] = "",
+	["{area:431} is just north up the road. Coming in from the south, the flight master and {npc:12696}'s hunt board at {area:428} come first, then the vendors. {npc:12867} at the lumber camp offers {quest:6503}: leave it for the way back, at 22."] = "沿路向北不远就是 {area:431}。从南边进入时，先经过飞行管理员和 {area:428} 的 {npc:12696} 狩猎告示板，再到商人处。伐木营地的 {npc:12867} 会提供 {quest:6503}：先留着，22级返回时再做。",
 	-- {npc:12696} Senani Thunderheart · {area:331} Ashenvale
 	["{npc:12696}'s hunt targets (Ursangous, Shadumbra, Sharptalon) are for the next {area:331} visit, at 26."] = "{npc:12696}的狩猎目标（乌萨苟斯、萨杜布拉、沙普塔隆）留到26级下次来{area:331}时再做。",
 
@@ -77,13 +77,13 @@ return {
 
 	-- Step 15: Ashenvale Outrunners
 	-- {npc:12867} Kuray'bin
-	["Out of the inn and south down the road to the lumber camp: {npc:12867} stands there. The night elf Outrunners (23-24) stalk the woods south-east of it; they stealth, so watch for them."] = "",
+	["Out of the inn and south down the road to the lumber camp: {npc:12867} stands there. The night elf Outrunners (23-24) stalk the woods south-east of it; they stealth, so watch for them."] = "离开旅店，沿路向南前往伐木营地：{npc:12867} 站在那里。暗夜精灵灰谷先驱者（23-24级）在营地东南的树林里潜伏；他们会潜行，所以要留意。",
 
 	-- Step 16: Fly to Orgrimmar
 	-- {area:1637} Orgrimmar
 	["Fly to {area:1637}"] = "飞往{area:1637}",
 	-- {area:431} Splintertree Post · {area:1637} Orgrimmar
-	["Back north up the road to the {area:431} flight master and fly to {area:1637}."] = "",
+	["Back north up the road to the {area:431} flight master and fly to {area:1637}."] = "沿路向北返回 {area:431} 的飞行管理员处，飞往 {area:1637}。",
 	-- {area:431} Splintertree Post
 	["{area:431} flight master"] = "{area:431}飞行管理员",
 
@@ -112,7 +112,7 @@ return {
 
 	-- Step 23: Strange Lockbox
 	-- {area:240} Dead Field · {object:177790} Strange Lockbox · {item:15882} Half Pendant of Aquatic Endurance · {area:228} Sepulcher
-	["From the zeppelin towers, run south into Silverpine and west past the {area:240} to the coast: the {object:177790} lies at the bottom of very deep water there, beside an air fissure where you can breathe. Watch your breath on the way down. It holds the {item:15882} for Trial of the Sea Lion. Then on to the {area:228}."] = "",
+	["From the zeppelin towers, run south into Silverpine and west past the {area:240} to the coast: the {object:177790} lies at the bottom of very deep water there, beside an air fissure where you can breathe. Watch your breath on the way down. It holds the {item:15882} for Trial of the Sea Lion. Then on to the {area:228}."] = "从飞艇塔出发，向南进入银松森林，再向西经过 {area:240} 到达海岸：{object:177790} 位于那里的深水海底，旁边有可以呼吸的空气裂隙。下潜时注意剩余呼吸时间。里面有海狮试炼所需的 {item:15882}。然后前往 {area:228}。",
 	-- {item:15882} Half Pendant of Aquatic Endurance · {object:177790} Strange Lockbox
 	["{item:15882}, from the {object:177790}"] = "{item:15882}，来自{object:177790}",
 
@@ -133,7 +133,7 @@ return {
 
 	-- Step 26: Beren's Peril
 	-- {quest:516} Beren's Peril · {npc:1973} Ravenclaw Guardian · {item:271343} Note Scrap · {object:645153} Offering Stone
-	["The Ravenclaw undead haunt the ruins of {quest:516}, east of the road in the south-east of the forest; a {npc:1973} drops the {item:271343} that leads to the {object:645153}.\nAn elite spirit (20) often stands beside the {object:645153}: pull the Ravenclaws away from the stone before you fight them."] = "",
+	["The Ravenclaw undead haunt the ruins of {quest:516}, east of the road in the south-east of the forest; a {npc:1973} drops the {item:271343} that leads to the {object:645153}.\nAn elite spirit (20) often stands beside the {object:645153}: pull the Ravenclaws away from the stone before you fight them."] = "鸦爪亡灵在森林东南部、道路东边的 {quest:516} 废墟中游荡；{npc:1973} 掉落 {item:271343}，指引你找到 {object:645153}。\n{object:645153} 旁常有一个20级精英灵魂：先把鸦爪亡灵引离石头，再与它们战斗。",
 	-- {item:271343} Note Scrap · {npc:1973} Ravenclaw Guardian
 	["{item:271343}, from a {npc:1973}"] = "{item:271343}，来自{npc:1973}",
 	-- {object:645153} Offering Stone · {quest:95883} The Tortured Soul · {item:271343} Note Scrap
@@ -144,7 +144,7 @@ return {
 
 	-- Step 27: The Offering of Blood
 	-- {item:210713} Tortured Soul · {object:645153} Offering Stone · {quest:95883} The Tortured Soul
-	["The quest hands you a {item:210713}: use it beside the {object:645153} to offer your blood, then kill the elite spirit that answers.\n{quest:95883} is elite: grouping up is advised."] = "",
+	["The quest hands you a {item:210713}: use it beside the {object:645153} to offer your blood, then kill the elite spirit that answers.\n{quest:95883} is elite: grouping up is advised."] = "任务会给你一个 {item:210713}：在 {object:645153} 旁使用它献出你的血，然后击杀回应的精英灵魂。\n{quest:95883} 是精英任务：建议组队。",
 	-- {item:210713} Tortured Soul · {object:645153} Offering Stone
 	["{item:210713}, beside the {object:645153}: summons the elite spirit"] = "",
 

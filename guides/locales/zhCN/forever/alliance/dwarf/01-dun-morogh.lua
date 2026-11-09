@@ -261,7 +261,7 @@ return {
 	-- {npc:258113} Ingrid Dunwald · {npc:257597} Bruegs Kindleborn
 	["{npc:258113}: {npc:257597} by the South Gate takes it"] = "{npc:258113}：交给南门旁的{npc:257597}",
 	-- {npc:1226} Maxan Anvol · {npc:11406} High Priest Rohan · {zone:1455} Ironforge
-	["{npc:1226}: {npc:11406} in {zone:1455} takes it"] = "",
+	["{npc:1226}: {npc:11406} in {zone:1455} takes it"] = "{npc:1226}：交给{zone:1455}的{npc:11406}",
 
 	-- Step 41: Steelgrill's Depot
 	-- {area:131} Kharanos · {area:1} Dun Morogh

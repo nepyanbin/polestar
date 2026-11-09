@@ -101,7 +101,7 @@ return {
 	["{area:118}: kill these as you meet them"] = "{area:118}：沿途击杀以下目标",
 	-- {npc:1353} Sarltooth · {object:331} Loose Soil
 	-- plural, as words: Goaz Warders = {npc:270892} Goaz Warder
-	["The relics lie in the dig itself. {npc:1353}, a big Razormaw, prowls the raptor valley just west of it.\nGoaz Warders (elite, 32) stand among the relics and the {object:331}: pull them away one at a time, or work around them."] = "",
+	["The relics lie in the dig itself. {npc:1353}, a big Razormaw, prowls the raptor valley just west of it.\nGoaz Warders (elite, 32) stand among the relics and the {object:331}: pull them away one at a time, or work around them."] = "圣物就在挖掘场里。{npc:1353}是一只大型刺喉龙，在挖掘场西边不远的迅猛龙山谷中徘徊。\n戈阿兹守卫者（32级精英）站在圣物和{object:331}之间：逐个引开，或绕开它们。",
 	-- {item:2661} Neru Fragment · {object:331} Loose Soil
 	["{item:2661}: the {object:331}"] = "{item:2661}：{object:331}",
 
@@ -128,7 +128,7 @@ return {
 
 	-- Step 25: Angerfang Encampment
 	-- {zone:1455} Ironforge · {npc:2091} Chieftain Nek'rosh · {quest:98221} From the Ashes
-	["North from the dig into the Dragonmaw camp: click the four sets of Attack Plans. The {zone:1455} plan lies at the camp's west end, the other three further east. {npc:2091}, an elite, stands apart to the south-east: {quest:98221} doesn't need him."] = "",
+	["North from the dig into the Dragonmaw camp: click the four sets of Attack Plans. The {zone:1455} plan lies at the camp's west end, the other three further east. {npc:2091}, an elite, stands apart to the south-east: {quest:98221} doesn't need him."] = "从挖掘场向北进入龙喉营地，点击四份Attack Plans。{zone:1455}的计划在营地西端，其余三份在更东面。精英{npc:2091}单独站在东南方，{quest:98221}不需要击杀他。",
 	-- {item:3337} Dragonmaw War Banner
 	["{item:3337}: the camp's Raiders and Swamprunners"] = "{item:3337}：营地里的Raiders和Swamprunners掉落",
 

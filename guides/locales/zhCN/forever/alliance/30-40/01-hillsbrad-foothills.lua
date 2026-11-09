@@ -59,11 +59,11 @@ return {
 
 	-- Step 13: Dun Modr
 	-- {area:205} Dun Modr · {npc:1071} Longbraid the Grim · {npc:1075} Rhag Garmason · {object:147516} Dark Iron
-	["North along the road to {area:205}. {npc:1071} and {npc:1075} stand together in the dwarves' camp on the east side of the road; the {object:147516} ruins west of it are full of elites."] = "",
+	["North along the road to {area:205}. {npc:1071} and {npc:1075} stand together in the dwarves' camp on the east side of the road; the {object:147516} ruins west of it are full of elites."] = "沿路向北前往{area:205}。{npc:1071}和{npc:1075}一起站在道路东侧的矮人营地里；西侧的{object:147516}废墟中满是精英。",
 
 	-- Step 14: Captive Fire Elemental
 	-- {npc:271481} Captive Fire Elemental · {object:147516} Dark Iron · {npc:1364} Balgaras the Foul · {npc:1072} Roggo Harlbarrow
-	["These are elite mobs: grouping up is encouraged, look for people to do it with. The {npc:271481} is held at the far west end of the {object:147516} ruins, past level 27-30 elite dwarves, and {npc:1364} (34, elite) can be among them. Lead it east out of the ruins, then hand it in to {npc:1072} in the camp. Skip it if you are alone."] = "",
+	["These are elite mobs: grouping up is encouraged, look for people to do it with. The {npc:271481} is held at the far west end of the {object:147516} ruins, past level 27-30 elite dwarves, and {npc:1364} (34, elite) can be among them. Lead it east out of the ruins, then hand it in to {npc:1072} in the camp. Skip it if you are alone."] = "这些是精英怪物：建议寻找其他玩家组队。{npc:271481}被关在{object:147516}废墟最西端，需先穿过27-30级精英矮人，{npc:1364}（34级精英）也可能在其中。带它向东离开废墟，再交给营地里的{npc:1072}。如果只有自己，就跳过。",
 
 	-- Step 15: Modr
 	-- {npc:271460} Modr · {area:205} Dun Modr · {item:279996} Goaz Stone
@@ -73,7 +73,7 @@ return {
 	["The Villards"] = "维拉德一家",
 	-- {npc:5683} Corma Villard · {area:205} Dun Modr · {area:880} Thandol Span · {npc:271322} Essene Villard · {npc:1075} Rhag Garmason · {quest:87318} Hearts of the Lost
 	-- plural, as words: Dark Iron Saboteurs = {npc:1052} Dark Iron Saboteur
-	["{npc:5683} waits on the road north of {area:205}, towards the {area:880}; {npc:271322} a short walk further north-east, and Ebenezer Rustlocke's corpse lies under the span beside her. Rustlocke's parchment goes back to {npc:1075}.\n{npc:5683} may not offer {quest:87318} yet: if she doesn't, skip it.\nTwo elite Dark Iron Saboteurs stand by the corpse inside the span: pull them one at a time, or loot the corpse and run out."] = "",
+	["{npc:5683} waits on the road north of {area:205}, towards the {area:880}; {npc:271322} a short walk further north-east, and Ebenezer Rustlocke's corpse lies under the span beside her. Rustlocke's parchment goes back to {npc:1075}.\n{npc:5683} may not offer {quest:87318} yet: if she doesn't, skip it.\nTwo elite Dark Iron Saboteurs stand by the corpse inside the span: pull them one at a time, or loot the corpse and run out."] = "{npc:5683}在{area:205}以北、通往{area:880}的道路上等候；再向东北走一小段便是{npc:271322}，伊贝尼瑟的尸体躺在她身旁的大桥下。伊贝尼瑟的羊皮纸要带回给{npc:1075}。\n{npc:5683}可能还不提供{quest:87318}：如果没有，就跳过。\n两名精英黑铁破坏者守在桥体内的尸体旁：逐个引开，或拾取尸体后跑出去。",
 	-- {object:2652} Ebenezer Rustlocke's Corpse
 	["{object:2652}, inside"] = "{object:2652}，在里面",
 	["the same corpse"] = "同一具尸体",
@@ -87,7 +87,7 @@ return {
 	["The {object:2704}"] = "{object:2704}",
 	-- {area:880} Thandol Span
 	-- plural, as words: Dark Irons = {object:147516} Dark Iron
-	["Over the {area:880}: the Dark Irons' cache of explosives sits by its Arathi end."] = "",
+	["Over the {area:880}: the Dark Irons' cache of explosives sits by its Arathi end."] = "穿过{area:880}：黑铁的炸药堆就在大桥阿拉希一端旁边。",
 
 	-- Step 19: Waterlogged Envelope
 	["Underwater"] = "在水下",
@@ -140,7 +140,7 @@ return {
 
 	-- Step 30: Southshore
 	-- {npc:2711} Phin Odelic · {npc:2430} Chef Jessen · {npc:2382} Darren Malvew · {npc:2381} Micha Yance · {npc:2438} Bartolo Ginsetti · {npc:2366} Barkeep Kelly · {quest:98463} Talk of the Town
-	["Off the boat, walk up the pier into town: {npc:2711} and Lieutenant Farren stand by the inn, {npc:2430} upstairs, {npc:2382} east of it; the flight master is at the north end, {npc:2381} and {npc:2438} between her and the inn, Maleb in the town hall at the west side.\n{npc:2366} may not offer {quest:98463} on Forever: if she doesn't, skip it."] = "",
+	["Off the boat, walk up the pier into town: {npc:2711} and Lieutenant Farren stand by the inn, {npc:2430} upstairs, {npc:2382} east of it; the flight master is at the north end, {npc:2381} and {npc:2438} between her and the inn, Maleb in the town hall at the west side.\n{npc:2366} may not offer {quest:98463} on Forever: if she doesn't, skip it."] = "下船后沿码头走进镇子：{npc:2711}和法尔林·奥里涅尔中尉站在旅店旁，{npc:2430}在楼上，{npc:2382}在旅店东边；飞行管理员在北端，{npc:2381}和{npc:2438}在她和旅店之间，赫尼·马雷布镇长在西侧的市政厅。\n在无限版本中，{npc:2366}可能不提供{quest:98463}：如果没有，就跳过。",
 	-- {npc:2711} Phin Odelic
 	["{npc:2711}: his trail leads to Arathi"] = "{npc:2711}：他的线索指向阿拉希高地",
 	-- {npc:2228} Lieutenant Farren Orinelle
@@ -186,7 +186,7 @@ return {
 
 	-- Step 39: Southshore
 	-- {npc:251493} Captain McManus · {quest:98059} Hillsbrad's Hoard · {item:279386} Sealed Company Request · {area:287} Hillsbrad · {area:271} Southshore
-	["{npc:251493} stands north-west of the flight master, on the way north to the yeti cave.\n{quest:98059}: {npc:251493} hands you a {item:279386} for the {area:287} council, in the farms west of {area:271}; you deliver it after the Syndicate camp."] = "",
+	["{npc:251493} stands north-west of the flight master, on the way north to the yeti cave.\n{quest:98059}: {npc:251493} hands you a {item:279386} for the {area:287} council, in the farms west of {area:271}; you deliver it after the Syndicate camp."] = "{npc:251493}站在飞行管理员西北方，就在向北去雪人洞穴的路上。\n{quest:98059}：{npc:251493}会交给你一份{item:279386}，要送到{area:271}以西农场里的{area:287}议会；完成辛迪加营地的事后再去送。",
 
 	-- Step 40: Yeti cave
 	["Yeti cave"] = "雪人洞穴",
@@ -200,13 +200,13 @@ return {
 
 	-- Step 43: Hillsbrad Fields
 	-- {area:286} Hillsbrad Fields
-	["South-west from the Syndicate camp to the {area:286} farms."] = "",
+	["South-west from the Syndicate camp to the {area:286} farms."] = "从辛迪加营地向西南前往{area:286}的农场。",
 
 	-- Step 44: Hillsbrad council
 	-- {area:287} Hillsbrad
-	["{area:287} council"] = "",
+	["{area:287} council"] = "{area:287}议会",
 	-- {item:279386} Sealed Company Request · {area:287} Hillsbrad
-	["Use the {item:279386} at the {area:287} council."] = "",
+	["Use the {item:279386} at the {area:287} council."] = "在{area:287}议会处使用{item:279386}。",
 
 	-- Step 45: Snapjaws
 	["Snapjaws"] = "钳嘴龟",

@@ -14,7 +14,7 @@ return {
 
 	-- Step 3: Watcher Biggs
 	-- {npc:5476} Watcher Biggs · {npc:217412} Amaryllis Webb · {quest:93176} My Little Friends
-	["{npc:5476} guards the road junction in the west of the swamp. {npc:217412} stands a short way north of him.\n{npc:217412} may not be here on Forever: if {npc:217412} doesn't offer {quest:93176}, skip it."] = "",
+	["{npc:5476} guards the road junction in the west of the swamp. {npc:217412} stands a short way north of him.\n{npc:217412} may not be here on Forever: if {npc:217412} doesn't offer {quest:93176}, skip it."] = "{npc:5476}守在沼泽西侧的道路交汇处，{npc:217412}就在他北侧不远处。\n在无限版本中，{npc:217412}可能不在这里：如果{npc:217412}不提供{quest:93176}，就跳过。",
 	-- {npc:217412} Amaryllis Webb · {zone:1443} Desolace
 	["{npc:217412}: three critters to catch in Arathi, {zone:1443} and Stranglethorn"] = "{npc:217412}：在阿拉希、{zone:1443}和荆棘谷各捕捉一只小动物",
 
@@ -206,7 +206,7 @@ return {
 
 	-- Step 47: Foggy MacKreel
 	-- {npc:2793} Kor'gresh Coldrage · {area:880} Thandol Span · {npc:2696} Foggy MacKreel · {quest:647} MacKreel's Moonshine · {npc:2705} Brewmeister Bilger · {area:271} Southshore · {area:320} Refuge Pointe
-	["South-west from {npc:2793}'s cave to the {area:880}: {npc:2696} stands on a broken section of the bridge; jump down to him from its north end. {quest:647} must reach {npc:2705} in {area:271} within 15 minutes: go straight back to {area:320} and fly to {area:271}."] = "",
+	["South-west from {npc:2793}'s cave to the {area:880}: {npc:2696} stands on a broken section of the bridge; jump down to him from its north end. {quest:647} must reach {npc:2705} in {area:271} within 15 minutes: go straight back to {area:320} and fly to {area:271}."] = "从{npc:2793}的洞穴向西南前往{area:880}：{npc:2696}站在断裂的桥段上，从北端跳下去找他。{quest:647}必须在15分钟内交给{area:271}的{npc:2705}：直接返回{area:320}，飞往{area:271}。",
 
 	-- Step 49: Fly to Southshore
 	-- {area:320} Refuge Pointe
@@ -214,7 +214,7 @@ return {
 
 	-- Step 50: Brewmeister Bilger
 	-- {area:271} Southshore
-	["Off the flight, straight to the {area:271} inn."] = "",
+	["Off the flight, straight to the {area:271} inn."] = "落地后直接前往{area:271}的旅店。",
 	-- {npc:2705} Brewmeister Bilger
 	["{npc:2705}, below ground"] = "{npc:2705}，在地下",
 
@@ -227,7 +227,7 @@ return {
 	["{area:281}: kill these as you meet them"] = "{area:281}：沿途击杀以下目标",
 	-- {area:280} Strahnbrad
 	-- plural, as words: Argus Shadow Mages = {npc:2318} Argus Shadow Mage · Crushridge Warmongers = {npc:2287} Crushridge Warmonger · Crushridge Maulers = {npc:2254} Crushridge Mauler · Crushridge Ogres = {npc:2252} Crushridge Ogre
-	["The tomes lie in the ruined keep west of {area:280}; Argus Shadow Mages hold the ruins.\nCareful: Crushridge Warmongers call nearby allies within 15 yd once they fall below half health.\nThe Crushridge Maulers, Mages, Enforcers and Warmongers (36-39) are elite; the Crushridge Ogres and Brutes (34-35) are not and carry the tomes too: pull one at a time, or group up."] = "",
+	["The tomes lie in the ruined keep west of {area:280}; Argus Shadow Mages hold the ruins.\nCareful: Crushridge Warmongers call nearby allies within 15 yd once they fall below half health.\nThe Crushridge Maulers, Mages, Enforcers and Warmongers (36-39) are elite; the Crushridge Ogres and Brutes (34-35) are not and carry the tomes too: pull one at a time, or group up."] = "书籍位于{area:280}以西的城堡废墟内，由暗影大法师占据。\n注意：破碎岭好战者生命值低于一半时，会召唤15码内的盟友支援。\n破碎岭虐待者、破碎岭法师、破碎岭执行者和破碎岭好战者（36-39级）是精英；破碎岭食人魔和破碎岭蛮兵（34-35级）不是精英，也携带这些书籍：逐个拉怪，或组队。",
 	-- {item:3658} Recovered Tome
 	["{item:3658}: Crushridge ogres"] = "{item:3658}：破碎岭食人魔",
 	-- {item:3659} Worn Leather Book · {object:1760} Weathered Bookcase
@@ -247,7 +247,7 @@ return {
 	["Crushridge ogres"] = "破碎岭食人魔",
 	-- {area:280} Strahnbrad · {item:3706} Ensorcelled Parchment · {npc:2320} Nagaz · {quest:537} Dark Council
 	-- plural, as words: Crushridge Maulers = {npc:2254} Crushridge Mauler · Crushridge Ogres = {npc:2252} Crushridge Ogre
-	["The Crushridge ogres hold the hills north of {area:280}. Farther north, a worn wooden chest holds the {item:3706}; {npc:2320} of the {quest:537} stands right by it.\nThe Crushridge Maulers, Mages, Enforcers and Warmongers (36-39) are elite; the Crushridge Ogres and Brutes (34-35) are not and drop the knucklebones too: pull one at a time, or group up."] = "",
+	["The Crushridge ogres hold the hills north of {area:280}. Farther north, a worn wooden chest holds the {item:3706}; {npc:2320} of the {quest:537} stands right by it.\nThe Crushridge Maulers, Mages, Enforcers and Warmongers (36-39) are elite; the Crushridge Ogres and Brutes (34-35) are not and drop the knucklebones too: pull one at a time, or group up."] = "破碎岭食人魔占据着{area:280}以北的山丘。再往北，一个破旧的木箱里装着{item:3706}；{quest:537}的{npc:2320}就站在旁边。\n破碎岭虐待者、破碎岭法师、破碎岭执行者和破碎岭好战者（36-39级）是精英；破碎岭食人魔和破碎岭蛮兵（34-35级）不是精英，也会掉落指骨：逐个拉怪，或组队。",
 	["Inside"] = "在里面",
 
 	-- Step 58: Dalaran
